@@ -22,9 +22,10 @@
     "eslint-plugin-promise": ">=4.2.1",
     "eslint-plugin-react": ">=7.14.3",
     "eslint-plugin-standard": ">=4.0.1",
-    "express": ">=4.17.1",
-    "minimist": ">=1.2.5",
-    "rhea-promise": "^1.0.0",
-    "ws": ">=7.1.2"
+    "express": "^4.21.1",
+    "minimist": "^1.2.8",
+    "rhea-promise": "^1.2.1",
+    "webapp": "file:",
+    "ws": "^8.18.0"
   }
 }
